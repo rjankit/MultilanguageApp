@@ -14,3 +14,9 @@ Or,<br>
 1. Clone the project using link: https://github.com/rjankit/MultilanguageApp.git
 2. Import the project in Android Studio
 3. Deploy the app to your Android device and viola... you are good to go!
+
+## Screenshots
+
+|  |  |
+|--|--|
+|English ![English](https://github.com/ashu12chi/MultilanguageApp/blob/master/English.png)| Hindi ![Hindi](https://github.com/ashu12chi/MultilanguageApp/blob/master/Hindi.png)|
